@@ -3,6 +3,7 @@
 /store
 /public
 deploy.sh
+.vercel/
 # Build #
 #########
 MANIFEST.MF
